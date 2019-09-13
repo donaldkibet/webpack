@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Crimson';
+    src: url('./Crimson_Text/CrimsonText-Regular.ttf') format('ttf'),
+        url('./Crimson_Text/CrimsonText-RegularItalic.ttf') format('ttf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello{
+    color:red;
+    font-family: 'Crimson';
+}
